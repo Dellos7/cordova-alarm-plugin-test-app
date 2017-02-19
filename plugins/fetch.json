@@ -1,0 +1,18 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.dellos7.cordova.alarmplugin": {
+        "source": {
+            "type": "local",
+            "path": "../../cordova-alarm-plugin/CordovaAlarmPlugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
